@@ -34,7 +34,6 @@ $(document).ready(function() {
 		$(".top_mnu").fadeOut(600);
         $(".sandwich").toggleClass("active");
         $(".top_text").css("opacity", ".8");
-	$(".social_header_wrap li a").css("display", "block");
 	}).append("<span>");
     
     $(".toggle_mnu").click(function() {
